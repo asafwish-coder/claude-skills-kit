@@ -8,9 +8,9 @@ Made by Asaf Nitai Wishnia. Clinician turned AI product leader.
 
 ## Install
 
-Download this folder, then from inside it run:
-
 ```bash
+git clone https://github.com/asafwish-coder/claude-skills-kit.git
+cd claude-skills-kit
 ./install.sh
 ```
 
